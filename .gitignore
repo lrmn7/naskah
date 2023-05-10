@@ -1,0 +1,8 @@
+/target
+**/*.rs.bk
+fixtures/
+.DS_Store
+demo/static/worker/
+demo/static/main.js
+demo/static/main.wasm
+.vercel
