@@ -2,7 +2,7 @@
 
 > Bahasa pemrograman dengan sintaks Bahasa Indonesia
 
-Demo: https://naskah.vercel.app/
+Demo: https://naskah-lrmn.vercel.app/
 
 ## Tipe data
 
