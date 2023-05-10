@@ -1,7 +1,0 @@
-[package]
-name = "printer"
-version = "0.1.0"
-authors = ["L RMN <lrmnid@gmail.com>"]
-
-[dependencies]
-parser = { path = "../parser" }
