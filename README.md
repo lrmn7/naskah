@@ -1,4 +1,4 @@
-# naskah [![Actions Status](https://github.com/pveyes/naskah/workflows/build/badge.svg)](https://github.com/pveyes/naskah/actions)
+# naskah [![Actions Status](https://github.com/lrmn7/naskah/workflows/build/badge.svg)](https://github.com/lrmn7/naskah/actions)
 
 > Bahasa pemrograman dengan sintaks Bahasa Indonesia
 
