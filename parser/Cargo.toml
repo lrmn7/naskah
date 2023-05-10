@@ -1,7 +1,7 @@
 [package]
 name = "parser"
 version = "0.1.0"
-authors = ["Fatih Kalifa <fatihkalifa@gmail.com>"]
+authors = ["L RMN <lrmnid@gmail.com>"]
 
 [dependencies]
 lazy_static = "1.1.0"
